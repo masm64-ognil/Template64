@@ -14,3 +14,5 @@ When this toggle is enabled in chrome://settings/security, Chrome automatically 
 To disable it:
 1. Open Chrome. In the address bar, type: "chrome://settings/security"
 2. Find “Always use secure connections” and turn it OFF (toggle should be gray).
+Download from here: 
+https://masm32.com/ognil/MASMS64lessons/Template64_Lesson1.zip
